@@ -14,3 +14,5 @@ const connectMongoDB = async () => {
 
 
 export default connectMongoDB
+
+//dar in file mongoose ra be mongodb vasl mikonim
